@@ -6,7 +6,7 @@
 #'
 #' \itemize{
 #'   \item ccTLD: IANA country code top-level domain
-#'   \item country.name: country name (English)
+#'   \item country.name.en: country name (English)
 #'   \item country.name.de: country name (German)
 #'   \item cowc: Correlates of War character
 #'   \item cown: Correlates of War numeric
